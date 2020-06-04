@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+  }
+  .sticky + .adjusting{
+    padding-top: 80px;
+  }
+
+.text-center img
+{
+    max-height: 100px;
+}
+#review
+{
+    background-color: #ECEFF1;
+}
+#review-row 
+{
+    justify-content: center;
+    
+}
+.img
+{
+
+    max-height: 400px;
+    max-width: 300px;
+    display: flex;
+    margin-top: 70px;
+    
+    
+    
+}
+
+.img2
+{
+
+    max-height: 200px;
+    max-width: 200px;
+    display: flex;
+    margin-top: 70px;
+    
+    
+    
+}
+ 
+ .card 
+ {
+    
+     margin: 50px 20px 20px 20px;
+ }
+
+ #footer
+ {
+     margin-top: 20px;
+    background-color: #FFA726;
+ }
+ 
+ .btn-floating
+ {
+     justify-content: space-between;
+ }
+ .display-one
+ {
+    position: relative;
+     top: 80px;
+     max-height: 800px;
+    width: 100%;
+     margin-bottom: 100px;
+     
+ }
+ 
+ .display-img
+ {
+     position: absolute;
+     max-height: 600px;
+     display: flex;
+     top: 400px;
+
+ }
+
+ 
